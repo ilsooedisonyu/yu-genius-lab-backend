@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/social-previews/yu-genius-lab-backend.jpg"
+       width="100%"
+       alt="Yu Genius Lab Backend Architecture Repository">
+</p>
+
 # Yu Genius Lab Backend
 
 **The architecture record of the platform behind [yugeniuslab.com](https://www.yugeniuslab.com/).**
@@ -139,7 +145,7 @@ Yu Genius Lab publishes knowledge. This platform keeps that knowledge consistent
 - [Open Knowledge™](https://www.yugeniuslab.com/open-knowledge/)
 - [The Python & Backend Philosophy](https://www.yugeniuslab.com/publications/python-backend-philosophy/)
 - [GOE Operating System™ white paper](https://www.yugeniuslab.com/publications/goe-operating-system/)
-- Companion repositories: [goe-architecture](https://github.com/USERNAME/goe-architecture) · [python-backend-philosophy](https://github.com/USERNAME/python-backend-philosophy)
+- Companion repositories: [goe-architecture](https://github.com/ilsooedisonyu/goe-architecture) · [python-backend-philosophy](https://github.com/ilsooedisonyu/python-backend-philosophy)
 
 ---
 
